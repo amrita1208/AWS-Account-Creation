@@ -48,8 +48,6 @@ Include the commands used in the Experiment.
 <img width="1920" height="1020" alt="Screenshot 2026-10-23 100346" src="https://github.com/user-attachments/assets/df06d310-fd9e-411a-9e19-716d41910fb7" />
 <img width="1920" height="1020" alt="Screenshot 2026-10-23 100623" src="https://github.com/user-attachments/assets/0b183c65-6b3a-4936-846a-28a638b74091" />
 <img width="1920" height="1020" alt="Screenshot 2026-10-23 100742" src="https://github.com/user-attachments/assets/d92902e6-32fa-491a-96f7-20e5e867dbda" />
-<img width="1920" height="1020" alt="Screenshot 2026-10-23 083825" src="https://github.com/user-attachments/assets/bfc65363-7354-4755-8e43-38719e6779fd" />
-
 
 ## RESULT
  
